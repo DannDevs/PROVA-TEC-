@@ -1,0 +1,16 @@
+{
+    "name": "vendor/autoload.php",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\AutoloadPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Augusto"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
